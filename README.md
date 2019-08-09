@@ -1,7 +1,13 @@
 # Scanning Bug Hunter All Operator & All Sosmed Indonesia
 
+# Tested : Termux & Windows Working
+
 # Author : Boychongzen aka Xroot
 
+# Tampilan Bug Hunter Termux
+# Operator Telkomsel
+![be](https://raw.githubusercontent.com/boychongzen18/BugHunter/master/termux.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/BugHunter/master/termux1.jpg)
 # Tampilan Bug Hunter Windows
 # Operator XL
 ![be](https://raw.githubusercontent.com/boychongzen18/bughunter/master/bughunter.jpg)
