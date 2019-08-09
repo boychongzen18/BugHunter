@@ -1,6 +1,6 @@
 import requests
 
-# Tools Priv8 Tools IP Finder
+# Tools Priv8 Tools Bug Hunter
 # Tested : Windows & Termux Working
 # eMAIL  : hackingforlive@yahoo.com
 # Regard : Boychongzen aka Xroot
