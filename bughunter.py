@@ -6,7 +6,7 @@ import requests
 # Regard : Boychongzen aka Xroot
 
 
-print ('''\033[1m\033[93m[\033[91m!\033[93m] Tools Priv8 Proxy Status \033[1;37m
+print ('''\033[1m\033[93m[\033[91m!\033[93m] Tools Priv8 Bug Hunter \033[1;37m
 Welcombek My Tools \n \033[1;31m
       _____    ____   ____       _____           ____   ____  ____   ____  _____   ______   _________________      ______        _____   
  ___|\     \  |    | |    |  ___|\    \         |    | |    ||    | |    ||\    \ |\     \ /                 \ ___|\     \   ___|\    \  
