@@ -1,6 +1,11 @@
-*.roli.com
-*.staging.roli.com
-*.store.roli.com
+Scanning Bug Hunter roli.com 2019
+
+Creator Bug : Boychonzgen aka Xroot
+
+
+roli.com
+staging.roli.com
+store.roli.com
 blend.roli.com
 builds.roli.com
 developer.roli.com
@@ -30,9 +35,6 @@ uk.store.roli.com
 uk1.store.roli.com
 web-builds.roli.com
 www.roli.com
-*.roli.com
-*.staging.roli.com
-*.store.roli.com
 blend.roli.com
 builds.roli.com
 developer.roli.com
