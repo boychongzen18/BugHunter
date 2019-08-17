@@ -16,7 +16,7 @@
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : https://youtu.be/v6Jqd7hQ0ns
+Link Tutorial : https://youtu.be/2RNerr07pEk
 
 My Website    : https://hackingforlive.wordpress.com
 
