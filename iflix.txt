@@ -1,6 +1,11 @@
-*.blue.iflix.com
-*.green.iflix.com
-*.iflix.com
+Scanning Bug Hunter roli.com 2019
+
+Creator Bug : Boychonzgen aka Xroot
+
+
+blue.iflix.com
+green.iflix.com
+iflix.com
 api-staging.iflix.com
 api.iflix.com
 auth-staging.iflix.com
