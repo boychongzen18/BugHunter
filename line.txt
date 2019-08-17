@@ -1,7 +1,12 @@
-*.game.line.me
-*.growthy.game.line.me
-*.line.me
-*.tr.line.me
+Scanning Bug Hunter LINE 2019
+
+Creator Bug : Boychonzgen aka Xroot
+
+
+game.line.me
+growthy.game.line.me
+line.me
+tr.line.me
 5thanniversary.game.line.me
 a.line.me
 access-auto.line.me
